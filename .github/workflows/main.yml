@@ -5,8 +5,8 @@ on:
     branches: main
 
 env:
-  KERNEL: https://github.com/sheikhshahnawaz41299/kernel_vivo_msm8916.git
-  KERNEL_BRANCH: cm-12.1-pd1510
+  KERNEL: https://github.com/arcovery/android_kernel_xiaomi_sm8150.git
+  KERNEL_BRANCH: dev
 
 jobs:
   build:
