@@ -9,7 +9,7 @@ env:
   KERNEL_BRANCH: dev
 
 jobs:
-  build:
+  build: 
     runs-on: ubuntu-18.04
 
     steps:
